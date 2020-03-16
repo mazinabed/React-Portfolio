@@ -11,7 +11,7 @@ export default function contact() {
         <hr size="4"/>
         <hr size="5"/>
         <div clasName="row">
-            <div className="col">
+            <div className="col col-sm-4">
             <form>
             <div className="form-group">
               <label for="exampleFormControlInput1">Email address</label>

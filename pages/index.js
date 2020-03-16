@@ -19,11 +19,11 @@ export default function Index() {
 </div>
 </div>
 <div className="row">
-<div className="col-4 col-sm-8">
+<div className="col-4 col-sm-4">
     
 <hr size="5"/>
 </div>
-<div className="col-4 col-sm-8">
+<div className="col-4 col-sm-4">
 <MyImage/>
       <p> Hello Everyone!</p>
       <p>My name Mazin Abed "I know it is on the top of the page", and was born and raised in Iraq. I worked with US army and Multi National forces in Iraqi freedom Operations back in 2003 as atranslator and cultural adviser. In 2009 I moved to Austin TX  "I did not choose Austin, Austin chose me!!" and start warking in Logistics with the same company for 10 years. </p>
